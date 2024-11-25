@@ -34,7 +34,7 @@ public class Prodotto {
     }
 
     public static void main(String[] args) {
-        //Creazione di un oggetto Prodotto con il primo costruttore
+        //Creazione di un oggetto Prodotto con i parametri del primo costruttore
         Prodotto p1 = new Prodotto("Guido Lombardo", "Informatic store");
         //Stampa dei valori contenuti nel primo costruttore
         System.out.println("Stampa dei valori contenuti nel primo costruttore");
