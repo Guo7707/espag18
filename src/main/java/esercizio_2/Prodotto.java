@@ -29,8 +29,8 @@ public class Prodotto {
 
     //Il secondo costruttore inizializza lo stato dell'oggetto. (in questo caso conosciamo il proprietario ma non il nome del negozio).
     public Prodotto(String proprietario) {
-        this.proprietario = proprietario;  // Valore di default
-        this.nomeNegozio = "Non specificato";  // Valore di default
+        this.proprietario = proprietario;  
+        this.nomeNegozio = "Non specificato";  
     }
 
     public static void main(String[] args) {
